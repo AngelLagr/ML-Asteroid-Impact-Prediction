@@ -14,12 +14,12 @@ The model is trained using a **Random Forest Classifier**, and the dataset is pr
 ---
 
 ## Technologies Used  
-- **Python**  
-- **scikit-learn** (machine learning models and preprocessing)  
+- **Python 3.11**  
+- **scikit-learn**
 - **imblearn** (SMOTE and RandomUnderSampler)  
-- **joblib** (model persistence)  
-- **pandas** (data manipulation)  
-- **matplotlib** (performance visualization)
+- **joblib**
+- **pandas**  
+- **matplotlib**
 
 ---
 ## Download the database
