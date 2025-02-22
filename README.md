@@ -5,7 +5,7 @@ As many of you have probably heard, the asteroid 2024 YR4 (YRA) has been getting
 
 So, I set out to see if I could use machine learning to predict whether asteroids like YRA are truly dangerous or just hyped up. The goal? To create a model that can classify asteroids based on their orbital parameters (like diameter, eccentricity, etc.) and determine if they pose a threat to our planet.
 
-The model is trained using a **Random Forest Classifier**, and the dataset is preprocessed with **SMOTE** (Synthetic Minority Over-sampling Technique) for balancing the classes and **RandomUnderSampler** for under-sampling.
+For this, I used a Random Forest Classifier to crunch the numbers, but, of course, the data wasn’t balanced. To make sure everything was fair, I applied SMOTE (Synthetic Minority Over-sampling Technique) to boost the minority class and RandomUnderSampler for under-sampling.
 
 ---
 
