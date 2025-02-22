@@ -19,7 +19,6 @@ The model is trained using a **Random Forest Classifier**, and the dataset is pr
 - **imblearn** (SMOTE and RandomUnderSampler)  
 - **joblib**
 - **pandas**  
-- **matplotlib**
 
 ---
 ## Download the database
