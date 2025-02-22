@@ -1,7 +1,8 @@
 # Asteroid Impact Prediction with Machine Learning
 
 ## Description  
-This project leverages **machine learning** techniques to predict whether an asteroid is dangerous or not, based on its orbital parameters.  
+This project leverages **machine learning** techniques to predict whether an asteroid is dangerous or not for Earth, based on its orbital parameters.  
+
 The goal is to train a classifier to determine the **dangerousness** of asteroids using features such as **diameter, eccentricity, and orbit-related values**.
 
 The model is trained using a **Random Forest Classifier**, and the dataset is preprocessed with **SMOTE** (Synthetic Minority Over-sampling Technique) for balancing the classes and **RandomUnderSampler** for under-sampling.
