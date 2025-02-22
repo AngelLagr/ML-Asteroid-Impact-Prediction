@@ -25,10 +25,10 @@ The model is trained using a **Random Forest Classifier**, and the dataset is pr
 ## Download the database
 Either you download it directly on kaggle : https://www.kaggle.com/datasets/sakhawat18/asteroid-dataset/data
 
-Either you use their library on python with these first codelines for your conda env :
+Either you use their library on python :
+First execute this command for your conda env :
 ```bash
-# Install dependencies as needed:
-# pip install kagglehub[pandas-datasets]
+pip install kagglehub[pandas-datasets]
 ```
 And these codelines on your python file
 ```bash
