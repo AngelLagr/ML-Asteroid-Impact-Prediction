@@ -57,14 +57,28 @@ python train_and_try_model.py
 ```
 ---
 ## Results
-I succeeded to obtain these metrics :
-- Accuracy: 0.9999
-- Precision: 0.9766
-- Recall: 0.9843
-- F1 Score: 0.9804
+Ok, so here's where it gets interesting. We ran the model with all the fancy preprocessing, and let me tell you – we were seriously on the edge of our seats here.
 
-And this confusion matrix :
+But guess what? The results came in:
+
+Accuracy: 0.9999 😲 (it's almost too good to be true!)
+Precision: 0.9766
+Recall: 0.9843
+F1 Score: 0.9804
+
+And the confusion matrix:
+```bash
 [[59870     3]
  [    2   125]]
+```
+We threw in some testing with a really threatening asteroid we've seen from the past and the infamous 2024 YR4 (yeah, that one everyone's been talking about).
 
+For the dangerous asteroid: BAM! It was correctly flagged as Dangerous.
+For YRA 2024? The model calmly predicted it as Non-Dangerous. Phew! 😅
 
+So, no need to start building your fallout shelters just yet! We've got the cosmic threat under control... for now.
+
+---
+
+## Disclaimer
+Now, let's not get carried away here – I'm not a professional astronomer or cosmic danger expert, just an engineering student dabbling with machine learning. While the model's results look pretty solid, nothing here is really 100% accurate. So, unfortunately, we’ll still have to wait a bit before we can say for sure if we’re a 100% safe or not :( !
