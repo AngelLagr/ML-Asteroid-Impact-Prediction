@@ -57,9 +57,9 @@ python train_and_try_model.py
 ```
 ---
 ## Results
-Ok, so here's where it gets interesting. We ran the model with all the fancy preprocessing, and let me tell you – we were seriously on the edge of our seats here.
+Here's where it gets interesting. We ran the model with all the fancy preprocessing, and we want to know if our model will be able to predict the threat that represent the asteroid YRA 2024. 
 
-But guess what? The results came in:
+So here are the results I've obtained:
 
 - Accuracy: 0.9999 😲 (it's almost too good to be true!)
 - Precision: 0.9766
