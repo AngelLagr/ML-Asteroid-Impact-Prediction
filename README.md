@@ -1,9 +1,9 @@
 # Asteroid Impact Prediction with Machine Learning
 
 ## Description  
-This project leverages **machine learning** techniques to predict whether an asteroid is dangerous or not for Earth, based on its orbital parameters.  
+As many of you have probably heard, the asteroid 2024 YR4 (YRA) has been getting some serious attention lately, with a reported 3% chance of colliding with Earth. Naturally, I couldn’t resist diving into this topic myself and figuring out if we should really be worried.
 
-The goal is to train a classifier to determine the **dangerousness** of asteroids using features such as **diameter, eccentricity, and orbit-related values**.
+So, I set out to see if I could use machine learning to predict whether asteroids like YRA are truly dangerous or just hyped up. The goal? To create a model that can classify asteroids based on their orbital parameters (like diameter, eccentricity, etc.) and determine if they pose a threat to our planet.
 
 The model is trained using a **Random Forest Classifier**, and the dataset is preprocessed with **SMOTE** (Synthetic Minority Over-sampling Technique) for balancing the classes and **RandomUnderSampler** for under-sampling.
 
@@ -61,10 +61,10 @@ Ok, so here's where it gets interesting. We ran the model with all the fancy pre
 
 But guess what? The results came in:
 
-Accuracy: 0.9999 😲 (it's almost too good to be true!)
-Precision: 0.9766
-Recall: 0.9843
-F1 Score: 0.9804
+- Accuracy: 0.9999 😲 (it's almost too good to be true!)
+- Precision: 0.9766
+- Recall: 0.9843
+- F1 Score: 0.9804
 
 And the confusion matrix:
 ```bash
