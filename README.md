@@ -30,7 +30,7 @@ First execute this command for your conda env :
 ```bash
 pip install kagglehub[pandas-datasets]
 ```
-And these codelines on your python file
+And add these codelines to the train_and_try_model.py (that will replace the data = pd.read_csv(...))
 ```bash
 import kagglehub
 from kagglehub import KaggleDatasetAdapter
