@@ -57,7 +57,7 @@ python train_and_try_model.py
 ```
 ---
 ## Results
-Here's where it gets interesting. We ran the model with all the fancy preprocessing, and we want to know if our model will be able to predict the threat that represent the asteroid YRA 2024. 
+Here's where it gets interesting. We ran the model with all the fancy preprocessing, and we want to know if our model will be able to predict the threat that represent the asteroid 2024 YRA. 
 
 So here are the results I've obtained:
 
@@ -71,9 +71,10 @@ And the confusion matrix:
 [[59870     3]
  [    2   125]]
 ```
-We threw in some testing with a really threatening asteroid we've seen from the past and the infamous 2024 YR4 (yeah, that one everyone's been talking about).
+We threw in some testing with a really threatening asteroid we've seen from the past and the infamous 2024 YR4.
 
 For the dangerous asteroid: BAM! It was correctly flagged as Dangerous.
+
 For YRA 2024? The model calmly predicted it as Non-Dangerous. Phew! 😅
 
 So, no need to start building your fallout shelters just yet! We've got the cosmic threat under control... for now.
