@@ -1,7 +1,7 @@
 # Asteroid Impact Prediction with Machine Learning
 
 ## Description  
-As many of you have probably heard, the asteroid 2024 YR4 (YRA) has been getting some serious attention lately, with a reported 3% chance of colliding with Earth. Naturally, I couldn’t resist diving into this topic myself and figuring out if we should really be worried.
+As many of you have probably heard, the asteroid 2024 YR4 has been getting some serious attention lately, with a reported 3% chance of colliding with Earth. Naturally, I couldn’t resist diving into this topic myself and figuring out if we should really be worried.
 
 So, I set out to see if I could use machine learning to predict whether asteroids like YRA are truly dangerous or not. The goal? To create a model that can classify asteroids based on their orbital parameters (like diameter, eccentricity, etc.) and determine if they pose a threat to our planet.
 
