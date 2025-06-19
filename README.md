@@ -82,4 +82,4 @@ So, no need to start building your fallout shelters just yet! We've got the cosm
 ---
 
 ## Disclaimer
-Now, let's not get carried away here – I'm not a professional astronomer or cosmic danger expert, just an engineering student dabbling with machine learning. While the model's results look pretty solid, nothing here is really 100% accurate and there's a lot of paramaters not taken into account. So, unfortunately, we’ll still have to wait a bit before we can say for sure if we’re a 100% safe or not :( !
+Now, let's not get carried away here, I'm not a professional astronomer or cosmic danger expert, just an engineering student dabbling with machine learning. While the model's results look pretty solid, nothing here is really 100% accurate and there's a lot of paramaters not taken into account. So, unfortunately, we’ll still have to wait a bit before we can say for sure if we’re a 100% safe or not :( !
