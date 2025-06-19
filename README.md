@@ -75,7 +75,7 @@ We threw in some testing with a really threatening asteroid we've seen from the 
 
 For the dangerous asteroid: BAM! It was correctly flagged as Dangerous.
 
-For YRA 2024? The model calmly predicted it as Non-Dangerous. Phew! 😅
+For YRA 2024? The model predicted it as Non-Dangerous. Phew! 😅
 
 So, no need to start building your fallout shelters just yet! We've got the cosmic threat under control... for now.
 
